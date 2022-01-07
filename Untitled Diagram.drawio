@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T19:48:06.035Z" agent="5.0 (X11)" etag="izeMZYcqqVpDu36hxZmF" version="16.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T19:48:48.803Z" agent="5.0 (X11)" etag="2LtUPQYNdGWNbYKqO6pQ" version="16.2.3" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
         <mxCell id="vdsjULqOPzu0NttrxO3h-126" value="Année 2" style="swimlane;startSize=40;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=15;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-125">
           <mxGeometry y="559" width="730" height="521" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-132" value="Phase 3 / Analyse" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=20;strokeColor=#C9C9C9;strokeWidth=3;fontColor=#5C5C5C;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-125">
+        <mxCell id="vdsjULqOPzu0NttrxO3h-132" value="Phase 3 / Analyse" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeColor=#C9C9C9;strokeWidth=3;fontColor=#5C5C5C;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-125">
           <mxGeometry x="-40" y="599" width="760" height="241" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-150" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#66CC00;strokeColor=#432D57;fontColor=#ffffff;sketch=1;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-132">
@@ -59,7 +59,7 @@
             <mxPoint x="400" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-133" value="Phase 4 / Diffusion" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=20;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-125">
+        <mxCell id="vdsjULqOPzu0NttrxO3h-133" value="Phase 4 / Diffusion" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-125">
           <mxGeometry x="-40" y="840" width="760" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-245" value="&lt;div&gt;Production scientifique&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rsc. : 2 doctorants&lt;/div&gt;&lt;div&gt;3 enseignants-chercheurs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-133">
@@ -73,7 +73,7 @@
         <mxCell id="vdsjULqOPzu0NttrxO3h-222" value="Rsc. = Ressources humaines" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;sketch=1;fontFamily=Garamond;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="17" y="1130" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-134" value="Phase 2 / Expérimentation" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=20;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+        <mxCell id="vdsjULqOPzu0NttrxO3h-134" value="Phase 2 / Expérimentation" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="40" y="331" width="760" height="269" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;" edge="1" parent="vdsjULqOPzu0NttrxO3h-134" source="vdsjULqOPzu0NttrxO3h-173" target="vdsjULqOPzu0NttrxO3h-227">
