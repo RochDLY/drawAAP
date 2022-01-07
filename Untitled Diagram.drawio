@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T19:38:26.230Z" agent="5.0 (X11)" etag="a18z2nr5x-pVkKbYySy5" version="16.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T19:39:36.176Z" agent="5.0 (X11)" etag="Q0A-4iNLmMpQvjR_tPxT" version="16.2.3" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
           <mxGeometry x="-40" y="840" width="760" height="200" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-245" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;Entraînement des différents modèles&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Rsc. : 2 doctorants&lt;/div&gt;&lt;div&gt;3 enseignants-chercheurs&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#d5e8d4;strokeColor=#82b366;sketch=0;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-133">
-          <mxGeometry x="180" y="37" width="395" height="121" as="geometry" />
+          <mxGeometry x="202" y="37" width="395" height="121" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=20;fontColor=#FFFFFF;endSize=6;strokeColor=#009E00;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="vdsjULqOPzu0NttrxO3h-125" source="vdsjULqOPzu0NttrxO3h-150" target="vdsjULqOPzu0NttrxO3h-245">
           <mxGeometry relative="1" as="geometry">
