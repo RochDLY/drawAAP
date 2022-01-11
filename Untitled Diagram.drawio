@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T22:13:26.072Z" agent="5.0 (X11)" etag="EjDZA3bag1S-9RhSsiu-" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T22:38:51.189Z" agent="5.0 (X11)" etag="39Dj4iYa-rJg4Ml9_E-m" version="16.2.4" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="vdsjULqOPzu0NttrxO3h-125" value="Année 1" style="swimlane;startSize=40;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=15;gradientColor=#ffd966;" parent="vdsjULqOPzu0NttrxO3h-123" vertex="1">
           <mxGeometry y="40" width="730" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-128" value="Phase 1 / Préparation du corpus" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
+        <mxCell id="vdsjULqOPzu0NttrxO3h-128" value="Phase 1 / Atelier, Edition" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
           <mxGeometry x="-40" y="40" width="760" height="250" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="vdsjULqOPzu0NttrxO3h-128" source="vdsjULqOPzu0NttrxO3h-135" target="vdsjULqOPzu0NttrxO3h-142" edge="1">
