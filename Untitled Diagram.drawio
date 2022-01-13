@@ -1,25 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T16:48:10.999Z" agent="5.0 (X11)" etag="YR0yXYgv_aXJS5wI21kU" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T22:48:35.597Z" agent="5.0 (X11)" etag="0rHRVlpdYRzWguRCgg2C" version="16.2.6" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
-    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2177" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vdsjULqOPzu0NttrxO3h-123" value="Calendrier - Les 2 années du projet Anthalgo" style="swimlane;startSize=40;fillColor=#BABABA;strokeColor=#030303;fontSize=20;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1" width="720" height="1120" as="geometry" />
+          <mxGeometry x="80" y="1" width="730" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-125" value="Année 1" style="swimlane;startSize=40;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;" parent="vdsjULqOPzu0NttrxO3h-123" vertex="1">
-          <mxGeometry y="40" width="720" height="1080" as="geometry" />
+          <mxGeometry y="40" width="730" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-128" value="Phase 1 : Atelier, Edition" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
-          <mxGeometry x="-40" y="40" width="760" height="250" as="geometry" />
-        </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="vdsjULqOPzu0NttrxO3h-128" source="vdsjULqOPzu0NttrxO3h-135" target="vdsjULqOPzu0NttrxO3h-142" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="620" y="180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-135" value="&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;Lister les&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Garamond&quot;&gt;variations techniques&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;shadow=0;glass=0;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
-          <mxGeometry x="490" y="9" width="260" height="91" as="geometry" />
+        <mxCell id="vdsjULqOPzu0NttrxO3h-128" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
+          <mxGeometry x="-40" y="40" width="770" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" parent="vdsjULqOPzu0NttrxO3h-128" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -27,88 +19,118 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-244" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vdsjULqOPzu0NttrxO3h-128" source="vdsjULqOPzu0NttrxO3h-145" target="vdsjULqOPzu0NttrxO3h-142" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="180" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-48" value="Lister l&#39;ensemble des variations présentes dans l&#39;Anthologie grecque" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-128">
+          <mxGeometry x="54" y="17" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-145" value="&lt;div align=&quot;center&quot;&gt;&lt;p&gt;&lt;font face=&quot;Garamond&quot;&gt;Lister les variations littéraires&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
-          <mxGeometry x="50" y="9" width="260" height="91" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-69" value="Lister l&#39;ensemble des variations présentes dans l&#39;Anthologie grecque" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-128">
+          <mxGeometry x="294" y="17" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-142" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;Développement d&#39;une typologie des variations&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#FFCD28;strokeColor=#d79b00;gradientColor=none;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
-          <mxGeometry x="270" y="149" width="260" height="91" as="geometry" />
-        </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-1" value="1 doctorant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
-          <mxGeometry x="140" y="78" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-2" value="1 doctorant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
-          <mxGeometry x="585" y="78" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-3" value="1 doctorant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
-          <mxGeometry x="364" y="220" width="70" height="30" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-70" value="Lister l&#39;ensemble des variations présentes dans l&#39;Anthologie grecque" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" vertex="1" parent="vdsjULqOPzu0NttrxO3h-128">
+          <mxGeometry x="534" y="17" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-126" value="Année 2" style="swimlane;startSize=40;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;rounded=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
-          <mxGeometry y="559" width="720" height="521" as="geometry" />
+          <mxGeometry y="519" width="730" height="521" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-132" value="Phase 3 : Analyse" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeColor=#C9C9C9;strokeWidth=3;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
-          <mxGeometry x="-40" y="599" width="760" height="241" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-2" value="9-22 parcourir les 4000 epigrammes de l&#39;AG en utilisant le balisage déjà fait pour lister tous les cas de variations et les insérer dans un .csv = 300h" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="159" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-150" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#66CC00;strokeColor=#D6B656;fontColor=#ffffff;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-132" vertex="1">
-          <mxGeometry x="270" y="138" width="260" height="90" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-3" value="&lt;div&gt;31-janvier&lt;/div&gt;&lt;div&gt;analyse &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-197" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Finalisation des modélisations algorithmiques pertinentes&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#82B366;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;dashed=1;sketch=1;fontFamily=Helvetica;fontSize=19;fontColor=#000000;strokeWidth=1;" parent="vdsjULqOPzu0NttrxO3h-132" vertex="1">
-          <mxGeometry x="270" y="138" width="260" height="90" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-4" value="A partir de là : vérification la liste des variations identifiées précédemment pour être sûr qu&#39;elles correspondent aux concepts " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="510" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-151" value="&lt;div&gt;Analyse des résultats&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#66CC00;strokeColor=#82B366;dashPattern=1 4;gradientColor=none;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-132" vertex="1">
-          <mxGeometry x="270" y="10" width="260" height="91" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-5" value="&lt;div&gt;jusqu&#39;au 1er juin : &lt;br&gt;&lt;/div&gt;&lt;div&gt;reviser les définitions listées et proposer une définition opérationnelle et revoir la liste des variations sur la base de cette définition opérationnelle&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="380" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-246" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=20;fontColor=#FFFFFF;endSize=6;strokeColor=#009E00;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="vdsjULqOPzu0NttrxO3h-132" source="vdsjULqOPzu0NttrxO3h-151" target="vdsjULqOPzu0NttrxO3h-197" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="230" as="sourcePoint" />
-            <mxPoint x="400" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-7" value="2 doctorants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-132" vertex="1">
-          <mxGeometry x="365" y="79" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-8" value="2 doctorants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-132" vertex="1">
-          <mxGeometry x="366" y="209" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-133" value="Phase 4 : Diffusion" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
-          <mxGeometry x="-40" y="840" width="760" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-245" value="Production scientifique" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#66CC00;strokeColor=#82b366;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-133" vertex="1">
-          <mxGeometry x="202" y="37" width="395" height="121" as="geometry" />
-        </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-9" value="&lt;div&gt;3 enseignants-chercheurs&lt;/div&gt;2 doctorants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-133" vertex="1">
-          <mxGeometry x="258" y="128" width="286" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-190" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=20;fontColor=#FFFFFF;endSize=6;strokeColor=#009E00;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="vdsjULqOPzu0NttrxO3h-125" source="vdsjULqOPzu0NttrxO3h-150" target="vdsjULqOPzu0NttrxO3h-245" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="857" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-134" value="Phase 2 : Expérimentation" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" parent="1" vertex="1">
-          <mxGeometry x="40" y="331" width="760" height="269" as="geometry" />
-        </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-230" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;" parent="vdsjULqOPzu0NttrxO3h-134" source="vdsjULqOPzu0NttrxO3h-173" target="vdsjULqOPzu0NttrxO3h-227" edge="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DbvygXqyl95GO3MPpOMc-5" target="DbvygXqyl95GO3MPpOMc-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-173" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;Appliquer pré-traitement au corpus&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#FFA500;strokeColor=#d79b00;gradientColor=none;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-134" vertex="1">
-          <mxGeometry x="270" y="29" width="260" height="91" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-8" value="prétraitement du texte jusqu&#39;au 1er septembre" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="620" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-227" value="&lt;div&gt;&lt;font face=&quot;Garamond&quot;&gt;Entraînement des différents modèles&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;fillColor=#FFA500;strokeColor=#d79b00;gradientColor=none;sketch=1;" parent="vdsjULqOPzu0NttrxO3h-134" vertex="1">
-          <mxGeometry x="270" y="163" width="260" height="91" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-9" value="&lt;div&gt;jusqu&#39;au 1er janvier &lt;br&gt;&lt;/div&gt;&lt;div&gt;expérimentation des modèles text analysis&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="670" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-4" value="1 doctorant" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-134" vertex="1">
-          <mxGeometry x="365" y="99" width="70" height="30" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-10" value="&lt;div&gt;à partir du 01/01/24 &lt;br&gt;&lt;/div&gt;&lt;div&gt;analyse des résultats jusqu&#39;à 1er avril 24&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="750" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9cP7esi936hN6ohQh6mw-5" value="2 doctorants" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-134" vertex="1">
-          <mxGeometry x="365" y="233" width="70" height="30" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-11" value="finalisation des modélisation algorithmique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="810" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vdsjULqOPzu0NttrxO3h-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;endSize=6;strokeColor=#FFA500;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="vdsjULqOPzu0NttrxO3h-142" target="vdsjULqOPzu0NttrxO3h-173" edge="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-12" value="jusqu&#39;au 1er septembre préparation à la diffusion des résultats" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-175" y="870" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-23" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="40" y="201" width="770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" edge="1" parent="DbvygXqyl95GO3MPpOMc-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="240" y="581" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-71" value="Lister l&#39;ensemble des variations présentes dans l&#39;Anthologie grecque" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-23">
+          <mxGeometry x="53" y="14.5" width="220" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-72" value="Lister l&#39;ensemble des variations présentes dans l&#39;Anthologie grecque" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-23">
+          <mxGeometry x="293" y="14.5" width="220" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-73" value="Lister l&#39;ensemble des variations présentes dans l&#39;Anthologie grecque" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-23">
+          <mxGeometry x="533" y="14.5" width="220" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-33" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="39" y="321" width="771" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" edge="1" parent="DbvygXqyl95GO3MPpOMc-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="139" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-39" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="39" y="441" width="771" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" edge="1" parent="DbvygXqyl95GO3MPpOMc-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="139" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-45" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" edge="1" parent="DbvygXqyl95GO3MPpOMc-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="139" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-51" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" edge="1" parent="DbvygXqyl95GO3MPpOMc-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="139" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-57" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="40" y="840" width="770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" edge="1" parent="DbvygXqyl95GO3MPpOMc-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="139" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-63" value="09-22 to 01-23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" vertex="1" parent="1">
+          <mxGeometry x="40" y="960" width="770" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DbvygXqyl95GO3MPpOMc-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" edge="1" parent="DbvygXqyl95GO3MPpOMc-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="139" as="sourcePoint" />
+            <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
