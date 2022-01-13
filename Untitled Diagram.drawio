@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T13:21:24.624Z" agent="5.0 (X11)" etag="NWd98TZ4kmktC7ER17fG" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T16:48:10.999Z" agent="5.0 (X11)" etag="YR0yXYgv_aXJS5wI21kU" version="16.2.4" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vdsjULqOPzu0NttrxO3h-123" value="Calendrier - Les 2 années du projet Anthalgo" style="swimlane;startSize=40;fillColor=#BABABA;strokeColor=#030303;fontSize=20;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="80" y="1" width="730" height="1120" as="geometry" />
+          <mxGeometry x="80" y="1" width="720" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-125" value="Année 1" style="swimlane;startSize=40;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;" parent="vdsjULqOPzu0NttrxO3h-123" vertex="1">
-          <mxGeometry y="40" width="730" height="1080" as="geometry" />
+          <mxGeometry y="40" width="720" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-128" value="Phase 1 : Atelier, Edition" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeWidth=3;strokeColor=#C9C9C9;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
           <mxGeometry x="-40" y="40" width="760" height="250" as="geometry" />
@@ -48,7 +48,7 @@
           <mxGeometry x="364" y="220" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-126" value="Année 2" style="swimlane;startSize=40;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;rounded=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
-          <mxGeometry y="559" width="730" height="521" as="geometry" />
+          <mxGeometry y="559" width="720" height="521" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-132" value="Phase 3 : Analyse" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=16;strokeColor=#C9C9C9;strokeWidth=3;fontColor=#5C5C5C;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
           <mxGeometry x="-40" y="599" width="760" height="241" as="geometry" />
