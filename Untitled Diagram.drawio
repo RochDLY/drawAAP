@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T17:52:20.882Z" agent="5.0 (X11)" etag="8xNvMqVLBj_lr1qxw4ZA" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T17:52:38.094Z" agent="5.0 (X11)" etag="lhz54-TD5FCIVXjAPFNO" version="16.2.7" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="DbvygXqyl95GO3MPpOMc-81" value="&lt;div align=&quot;left&quot;&gt;Préparation du texte :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- normalisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- tokenisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- lemmatisation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
           <mxGeometry x="296" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-82" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-82" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
           <mxGeometry x="536" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mRUF3wgdBZY0MRr82wtg-3" value="&lt;b&gt;Pré-traitement du texte&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#9AC7BF;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
