@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T17:51:23.918Z" agent="5.0 (X11)" etag="iu7etmLkSFHQGGrbarrb" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T17:52:20.882Z" agent="5.0 (X11)" etag="8xNvMqVLBj_lr1qxw4ZA" version="16.2.7" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
-    <mxGraphModel dx="1350" dy="1962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vdsjULqOPzu0NttrxO3h-123" value="Calendrier - Les 2 années du projet Anthalgo" style="swimlane;startSize=40;fillColor=#BABABA;strokeColor=#030303;fontSize=20;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="80" width="730" height="1140" as="geometry" />
+        <mxCell id="vdsjULqOPzu0NttrxO3h-123" value="Calendrier" style="swimlane;startSize=69;fillColor=#BABABA;strokeColor=#030303;fontSize=20;gradientColor=none;strokeWidth=2;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="80" y="1" width="730" height="1140" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-125" value="Année 1" style="swimlane;startSize=40;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;" parent="vdsjULqOPzu0NttrxO3h-123" vertex="1">
           <mxGeometry y="63" width="730" height="1077" as="geometry" />
