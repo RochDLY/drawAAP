@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T13:51:11.866Z" agent="5.0 (X11)" etag="dyHTSuLRcsIKOPzlrKn7" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T13:58:57.676Z" agent="5.0 (X11)" etag="UKco6uf0GcTb1F4Mpt9J" version="16.2.6" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="2177" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,16 +22,16 @@
         <mxCell id="DbvygXqyl95GO3MPpOMc-48" value="Définir le concept de variation" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#2D7600;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
           <mxGeometry x="54" y="93" width="220" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-69" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Parcourir les 4 000 épigrammes de l&#39;anthologie en utilisant le balisage réalisé dans le projet édition numérique pour lister tous les cas de variation.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-69" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Parcourir les 4 000 épigrammes de l&#39;anthologie en utilisant le balisage réalisé dans le projet édition numérique pour lister tous les cas de variation.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
           <mxGeometry x="294" y="14" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-70" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-70" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
           <mxGeometry x="534" y="14" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-96" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Faire un état de la littérature secondaire sur le concept de variation et compiler en une liste les différentes définitions.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-96" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Faire un état de la littérature secondaire sur le concept de variation et compiler en une liste les différentes définitions.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
           <mxGeometry x="294" y="129" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-97" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-97" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-128" vertex="1">
           <mxGeometry x="534" y="129" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="vdsjULqOPzu0NttrxO3h-126" value="Année 2" style="swimlane;startSize=40;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;rounded=0;sketch=0;" parent="vdsjULqOPzu0NttrxO3h-125" vertex="1">
@@ -76,10 +76,10 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-78" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;- réviser les définitions listées&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;- proposer une définition opérationnelle &lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;- revoir les variations listées sur la base de cette définition&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-33" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-78" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;- réviser les définitions listées&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;- proposer une définition opérationnelle &lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;- revoir les variations listées sur la base de cette définition&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-33" vertex="1">
           <mxGeometry x="296" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-79" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-33" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-79" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-33" vertex="1">
           <mxGeometry x="536" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mRUF3wgdBZY0MRr82wtg-2" value="Vérification de la liste des variations" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#2D7600;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-33">
@@ -94,10 +94,10 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-81" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-81" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
           <mxGeometry x="296" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-82" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-82" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-39" vertex="1">
           <mxGeometry x="536" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mRUF3wgdBZY0MRr82wtg-3" value="&lt;font color=&quot;#000000&quot;&gt;Définir le concept de variation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#2D7600;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-39">
@@ -112,10 +112,10 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-84" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-45" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-84" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-45" vertex="1">
           <mxGeometry x="295" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-85" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-45" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-85" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-45" vertex="1">
           <mxGeometry x="535" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mRUF3wgdBZY0MRr82wtg-4" value="&lt;font color=&quot;#000000&quot;&gt;Définir le concept de variation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#2D7600;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-45">
@@ -130,10 +130,10 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-87" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-51" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-87" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-51" vertex="1">
           <mxGeometry x="295" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-88" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-51" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-88" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-51" vertex="1">
           <mxGeometry x="535" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mRUF3wgdBZY0MRr82wtg-5" value="&lt;font color=&quot;#000000&quot;&gt;Définir le concept de variation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#2D7600;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-51">
@@ -148,10 +148,10 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-90" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-57" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-90" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-57" vertex="1">
           <mxGeometry x="295" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-91" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-57" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-91" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-57" vertex="1">
           <mxGeometry x="535" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mRUF3wgdBZY0MRr82wtg-6" value="&lt;font color=&quot;#000000&quot;&gt;Définir le concept de variation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#2D7600;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-57">
@@ -166,10 +166,10 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-93" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-63" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-93" value="Descriptif" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-63" vertex="1">
           <mxGeometry x="295" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-94" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFCD28;strokeColor=#d6b656;dashPattern=1 4;gradientColor=none;align=center;sketch=1;" parent="DbvygXqyl95GO3MPpOMc-63" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-94" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-63" vertex="1">
           <mxGeometry x="535" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="mRUF3wgdBZY0MRr82wtg-7" value="&lt;font color=&quot;#000000&quot;&gt;Définir le concept de variation&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#2D7600;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-63">
