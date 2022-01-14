@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T17:59:50.468Z" agent="5.0 (X11)" etag="il2STEfAroKt8CylgOng" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T18:32:49.603Z" agent="5.0 (X11)" etag="G6kSJEnk2tL8tlKNtAfs" version="16.2.7" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-90" value="&lt;div align=&quot;left&quot;&gt;Analyse approfondie des paramètres et variables qui &lt;br/&gt;constitueront l&#39;explicitation formelle des critères permettant de &lt;br/&gt;reconnaître une variation.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-57" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-90" value="&lt;div align=&quot;left&quot;&gt;Analyse approfondie des paramètres et variables qui &lt;br&gt;constitueront l&#39;explicitation formelle des critères permettant de reconnaître une variation.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#97D077;strokeColor=#97D077;dashPattern=1 4;gradientColor=none;align=left;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-57" vertex="1">
           <mxGeometry x="324" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="DbvygXqyl95GO3MPpOMc-91" value="200h&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 doctorants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#FFD966;strokeColor=#FFD966;dashPattern=1 4;gradientColor=none;align=center;sketch=0;" parent="DbvygXqyl95GO3MPpOMc-57" vertex="1">
