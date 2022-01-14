@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T17:51:15.351Z" agent="5.0 (X11)" etag="jCDK7wVi4xs4lb6Ty98G" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T17:52:46.243Z" agent="5.0 (X11)" etag="fb-s3nJ8QM2GlaQjz737" version="16.2.7" type="github">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-18" value="&lt;div align=&quot;left&quot;&gt;Préparation du texte :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- normalisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- tokenisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- lemmatisation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=left;fontColor=#1A1A1A;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-16">
           <mxGeometry x="296" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-19" value="Ressources (temps et humaines)" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-16">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-19" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-16">
           <mxGeometry x="536" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-20" value="&lt;b&gt;Pré-traitement du texte&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-16">
