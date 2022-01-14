@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T14:10:16.303Z" agent="5.0 (X11)" etag="WsE0qL5PCTJeBE7R6dZW" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T14:12:44.398Z" agent="5.0 (X11)" etag="emH49gNV43-SguXfJOgP" version="16.2.6" type="github">
   <diagram id="67H3rBDdoItOkYTrAJD3" name="Page-1">
     <mxGraphModel dx="2177" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,8 +64,8 @@
         <mxCell id="DbvygXqyl95GO3MPpOMc-12" value="jusqu&#39;au 1er septembre préparation à la diffusion des résultats" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-175" y="870" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-33" value="31/01/23 au 01/06/23" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=12;strokeWidth=3;strokeColor=#FF3333;fontColor=#FF3333;" parent="1" vertex="1">
-          <mxGeometry x="10" y="321" width="800" height="120" as="geometry" />
+        <mxCell id="DbvygXqyl95GO3MPpOMc-33" value="31/01/23 au 01/06/23" style="swimlane;horizontal=0;startSize=69;fontSize=12;strokeWidth=3;strokeColor=#FF3333;fontColor=#FF3333;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
+          <mxGeometry x="11" y="321" width="799" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DbvygXqyl95GO3MPpOMc-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" parent="DbvygXqyl95GO3MPpOMc-33" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -100,7 +100,7 @@
         <mxCell id="mRUF3wgdBZY0MRr82wtg-3" value="Pré-traitement du texte" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#9AC7BF;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-39">
           <mxGeometry x="53" y="31.5" width="220" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-45" value="01/09/23 au 01/01/24" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=12;strokeWidth=3;strokeColor=#FF3333;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-45" value="01/09/23 au 01/01/24" style="swimlane;horizontal=0;dashed=1;startSize=70;fontSize=12;strokeWidth=3;strokeColor=#FF3333;fontColor=#FF3333;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="10" y="600" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DbvygXqyl95GO3MPpOMc-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" parent="DbvygXqyl95GO3MPpOMc-45" edge="1">
@@ -136,7 +136,7 @@
         <mxCell id="mRUF3wgdBZY0MRr82wtg-5" value="Analyse des résultats" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#9AC7BF;strokeColor=#9AC7BF;dashPattern=1 4;align=center;sketch=0;fontColor=#ffffff;" vertex="1" parent="DbvygXqyl95GO3MPpOMc-51">
           <mxGeometry x="51" y="31.5" width="220" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="DbvygXqyl95GO3MPpOMc-57" value="01/04/24 au 01/06/24" style="swimlane;horizontal=0;dashed=1;startSize=40;fontSize=12;strokeWidth=3;strokeColor=#FF3333;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="DbvygXqyl95GO3MPpOMc-57" value="01/04/24 au 01/06/24" style="swimlane;horizontal=0;dashed=1;startSize=70;fontSize=12;strokeWidth=3;strokeColor=#FF3333;fontColor=#FF3333;dashPattern=1 1;" parent="1" vertex="1">
           <mxGeometry x="10" y="840" width="800" height="120" as="geometry" />
         </mxCell>
         <mxCell id="DbvygXqyl95GO3MPpOMc-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#000000;endSize=6;strokeColor=#FFA500;strokeWidth=3;startArrow=none;" parent="DbvygXqyl95GO3MPpOMc-57" edge="1">
