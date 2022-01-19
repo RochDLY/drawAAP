@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-19T16:42:12.173Z" agent="5.0 (X11)" etag="x2-ZBTXW70MpKYzu6xNB" version="16.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-19T16:42:58.316Z" agent="5.0 (X11)" etag="7Mh2BmmpZsNbrl9rvukg" version="16.4.0" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="lG-33SfAssL8Ct2ib1fu-6" value="&lt;b&gt;Année 2&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=16;fontColor=#1A1A1A;strokeColor=#FFFFFF;fillColor=#EEEEEE;" parent="KtcMa4PKy6_l-OY6IkqE-1" vertex="1">
           <mxGeometry y="613" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-16" value="Juin à&#xa;Septembre" style="swimlane;horizontal=0;startSize=60;fontSize=15;strokeWidth=1;strokeColor=none;fillColor=#dae8fc;" parent="KtcMa4PKy6_l-OY6IkqE-1" vertex="1">
-          <mxGeometry x="20" y="463.5" width="780" height="120" as="geometry" />
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-16" value="Juin à&#xa;Septembre" style="swimlane;horizontal=0;startSize=50;fontSize=15;strokeWidth=1;strokeColor=none;fillColor=#dae8fc;" parent="KtcMa4PKy6_l-OY6IkqE-1" vertex="1">
+          <mxGeometry x="30" y="463.5" width="770" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;fontColor=#FFFFFF;endSize=6;strokeColor=#FFFFFF;strokeWidth=3;startArrow=none;labelBackgroundColor=#182E3E;" parent="KtcMa4PKy6_l-OY6IkqE-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -29,13 +29,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-18" value="&lt;div align=&quot;left&quot;&gt;Préparation du texte :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- normalisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- tokenisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- lemmatisation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=left;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
-          <mxGeometry x="316" y="13.5" width="220" height="93" as="geometry" />
+          <mxGeometry x="306" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-19" value="?" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
-          <mxGeometry x="556" y="13.5" width="220" height="93" as="geometry" />
+          <mxGeometry x="546" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-20" value="&lt;b&gt;Pré-traitement du texte&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
-          <mxGeometry x="73" y="31.5" width="220" height="57" as="geometry" />
+          <mxGeometry x="63" y="31.5" width="220" height="57" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-26" value="Janvier à&#xa;Avril" style="swimlane;horizontal=0;startSize=50;fontSize=15;strokeWidth=1;strokeColor=none;fillColor=#dae8fc;" parent="KtcMa4PKy6_l-OY6IkqE-1" vertex="1">
           <mxGeometry x="30" y="773" width="770" height="120" as="geometry" />
