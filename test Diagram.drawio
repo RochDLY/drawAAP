@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T14:59:25.223Z" agent="5.0 (X11)" etag="ZSLnCedrtZByJqfGnvkU" version="16.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-20T15:05:54.529Z" agent="5.0 (X11)" etag="8kwkMy-MYOTZ-0k9yZzY" version="16.4.0" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
             <mxPoint x="380" y="193" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-18" value="&lt;div align=&quot;left&quot;&gt;Préparation du texte :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Normalisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Tokenisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Lemmatisation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=left;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-18" value="&lt;div align=&quot;left&quot;&gt;Préparer le texte :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Normalisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Tokenisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Lemmatisation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=left;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
           <mxGeometry x="306" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-19" value="420h&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 doctorants&lt;/div&gt;&lt;div&gt;3 maîtrisants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
@@ -46,7 +46,7 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-28" value="&lt;div align=&quot;left&quot;&gt;Confrontation des résultats avec la liste des variations identifiées manuellement.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-26" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-28" value="&lt;div align=&quot;left&quot;&gt;Confronter les résultats avec la liste des variations identifiées manuellement.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-26" vertex="1">
           <mxGeometry x="304" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-29" value="&lt;div&gt;400h&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1&amp;nbsp; doctorant&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-26" vertex="1">
@@ -64,7 +64,7 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-38" value="&lt;div align=&quot;left&quot;&gt;Déconstruction et explication de l&#39;algorithme final dans toutes ses composantes.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#B3B3B3;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-38" value="&lt;div align=&quot;left&quot;&gt;Déconstruire et expliquer l&#39;algorithme final dans toutes ses composantes.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#B3B3B3;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
           <mxGeometry x="304" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-39" value="200h&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 doctorants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#B3B3B3;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
@@ -117,7 +117,7 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-33" value="&lt;div align=&quot;left&quot;&gt;Analyse approfondie des paramètres et variables qui constitueront l&#39;explicitation formelle des critères permettant de reconnaître une variation.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=left;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-31" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-33" value="Faire une analyse approfondie des paramètres et variables qui constitueront l&#39;explicitation formelle des critères permettant de reconnaître une variation." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=left;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-31" vertex="1">
           <mxGeometry x="324" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-34" value="&lt;div&gt;200h&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2 doctorants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-31" vertex="1">
