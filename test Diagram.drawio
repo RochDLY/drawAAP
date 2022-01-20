@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T15:47:17.098Z" agent="5.0 (X11)" etag="Gyu7mKI3y2WF76-Gxg4L" version="16.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-20T15:47:33.127Z" agent="5.0 (X11)" etag="6tK0F3jNCms-qtJaIvZz" version="16.4.0" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-33" value="Faire une analyse approfondie des paramètres et variables qui constitueront l&#39;explicitation formelle des critères permettant de reconnaître une variation." style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=left;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-31" vertex="1">
           <mxGeometry x="324" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-34" value="&lt;div&gt;Chercheur et&lt;br&gt;&lt;/div&gt;Co-chercheur.e.s" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-31" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-34" value="EB, DF, MVR" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-31" vertex="1">
           <mxGeometry x="564" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-35" value="&lt;b&gt;6°)&lt;/b&gt; &lt;b&gt;Finalisation des modélisations algorithmiques&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-31" vertex="1">
