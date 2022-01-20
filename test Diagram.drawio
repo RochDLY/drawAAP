@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T14:58:33.637Z" agent="5.0 (X11)" etag="NvwMD6Ra71nS-sCD8B8U" version="16.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-20T14:59:25.223Z" agent="5.0 (X11)" etag="ZSLnCedrtZByJqfGnvkU" version="16.4.0" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-18" value="&lt;div align=&quot;left&quot;&gt;Préparation du texte :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Normalisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Tokenisation&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Lemmatisation&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=left;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
           <mxGeometry x="306" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-19" value="&lt;div&gt;150h&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 doctorants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-19" value="420h&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 doctorants&lt;/div&gt;&lt;div&gt;3 maîtrisants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
           <mxGeometry x="546" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-20" value="&lt;b&gt;3°)&lt;/b&gt; &lt;b&gt;Pré-traitement du texte&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-16" vertex="1">
