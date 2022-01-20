@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T15:05:54.529Z" agent="5.0 (X11)" etag="8kwkMy-MYOTZ-0k9yZzY" version="16.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-20T15:12:04.006Z" agent="5.0 (X11)" etag="26m7TE4DtjlvX-zgRQoo" version="16.4.0" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#182E3E" math="0" shadow="0">
       <root>
@@ -102,10 +102,10 @@
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-23" value="&lt;div align=&quot;left&quot;&gt;3 grands types d&#39;approches :&lt;br&gt;- Word embeddings&lt;br&gt;- Topic modelling&lt;br&gt;- Mots récurrents et named entities&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=left;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-21" vertex="1">
           <mxGeometry x="324" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-24" value="&lt;div&gt;1200h&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 doctorants&lt;/div&gt;&lt;div&gt;3 maîtrisants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-21" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-24" value="&lt;div&gt;780h&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3 doctorants&lt;/div&gt;&lt;div&gt;3 maîtrisants&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-21" vertex="1">
           <mxGeometry x="564" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-25" value="&lt;b&gt;4°)&lt;/b&gt; &lt;b&gt;Expérimentation des modèles&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-21" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-25" value="&lt;b&gt;4°)&lt;/b&gt; &lt;b&gt;Expérimentation des méthodes algorithmiques&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#EEEEEE;strokeColor=#FFFFFF;dashPattern=1 4;align=center;fontColor=#1A1A1A;" parent="KtcMa4PKy6_l-OY6IkqE-21" vertex="1">
           <mxGeometry x="82" y="31.5" width="220" height="57" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-31" value="Avril à&#xa;Juin" style="swimlane;horizontal=0;startSize=70;fontSize=15;strokeWidth=1;strokeColor=none;fontColor=#1A1A1A;fillColor=#EEEEEE;" parent="1" vertex="1">
@@ -136,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-5" value="&lt;b&gt;1°) Définition du concept de variation&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-3" vertex="1">
-          <mxGeometry x="63" y="29" width="220" height="57" as="geometry" />
+          <mxGeometry x="63" y="36" width="220" height="57" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-7" value="&lt;div&gt;300h&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 doctorant&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;dashPattern=1 4;align=center;" parent="KtcMa4PKy6_l-OY6IkqE-3" vertex="1">
           <mxGeometry x="546" y="14" width="220" height="93" as="geometry" />
