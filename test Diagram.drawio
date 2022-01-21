@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T14:00:10.416Z" agent="5.0 (X11)" etag="xbJdpFN3V_YOY5ffNK28" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T14:05:44.158Z" agent="5.0 (X11)" etag="hMNO5hyiQxxM6pCB5cqz" version="16.4.3" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
         <mxCell id="1y57VVVnvO8If9CbTbJS-6" value="&lt;font face=&quot;Lucida Console&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot; color=&quot;#4D4D4D&quot;&gt;Description&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;fillColor=none;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-11">
           <mxGeometry x="100" y="95" width="455" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1y57VVVnvO8If9CbTbJS-7" value="&lt;font style=&quot;font-size: 20px&quot; face=&quot;Lucida Console&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot; color=&quot;#4D4D4D&quot;&gt;Chantier&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;fillColor=none;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-11">
+        <mxCell id="1y57VVVnvO8If9CbTbJS-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot; face=&quot;Lucida Console&quot; color=&quot;#4D4D4D&quot;&gt;&lt;span style=&quot;font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(221 , 223 , 228 , 0.04) ; display: inline ; float: none&quot;&gt;Étape&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;fillColor=none;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-11">
           <mxGeometry x="-144" y="96" width="455" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-21" value="Septembre à&#xa;Janvier" style="swimlane;horizontal=0;startSize=70;fontSize=15;strokeWidth=1;strokeColor=none;fillColor=#97D077;" parent="1" vertex="1">
@@ -147,7 +147,7 @@
         <mxCell id="1y57VVVnvO8If9CbTbJS-3" value="&lt;font face=&quot;Lucida Console&quot; color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Description&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;fillColor=none;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-31">
           <mxGeometry x="99" y="-9.5" width="455" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1y57VVVnvO8If9CbTbJS-4" value="&lt;font color=&quot;#4D4D4D&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot; face=&quot;Lucida Console&quot;&gt;Chantier&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;fillColor=none;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-31">
+        <mxCell id="1y57VVVnvO8If9CbTbJS-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot; face=&quot;Lucida Console&quot; color=&quot;#4D4D4D&quot;&gt;&lt;span style=&quot;font-style: normal ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(221 , 223 , 228 , 0.04) ; display: inline ; float: none&quot;&gt;Étape&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;rotation=-90;fillColor=none;" vertex="1" parent="KtcMa4PKy6_l-OY6IkqE-31">
           <mxGeometry x="-141" y="-9" width="455" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-3" value="Septembre à&#xa;Janvier" style="swimlane;horizontal=0;startSize=50;fontSize=15;strokeWidth=1;strokeColor=none;fillColor=#C6F0B1;" parent="1" vertex="1">
