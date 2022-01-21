@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T13:55:40.262Z" agent="5.0 (X11)" etag="dUKbGPwT1x4uymeJof7_" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-21T14:00:10.416Z" agent="5.0 (X11)" etag="xbJdpFN3V_YOY5ffNK28" version="16.4.3" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-1" value="Calendrier" style="swimlane;startSize=40;strokeColor=#666666;fontSize=20;strokeWidth=0;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-1" value="Calendrier" style="swimlane;startSize=40;strokeColor=none;fontSize=20;strokeWidth=0;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry y="1" width="830" height="1139" as="geometry" />
         </mxCell>
         <mxCell id="lG-33SfAssL8Ct2ib1fu-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;2023 - 2024&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;strokeColor=none;fillColor=#FFFF66;" parent="KtcMa4PKy6_l-OY6IkqE-1" vertex="1">
