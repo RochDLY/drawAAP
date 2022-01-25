@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T20:32:47.914Z" agent="5.0 (X11)" etag="nHnPectWCOTbjP3Javpf" version="16.4.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-25T20:33:20.125Z" agent="5.0 (X11)" etag="EiRUbDUU5dWm5SvqYFRd" version="16.4.3" type="github" pages="2">
   <diagram id="nSknkcODzsTG4G_3UIwG" name="Page-1">
     <mxGraphModel dx="1350" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-30" value="&lt;b&gt;5.&lt;/b&gt; &lt;b&gt;Analyse des résultats&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;align=center;fillColor=#D5E8E8;strokeColor=none;gradientColor=none;gradientDirection=east;" parent="KtcMa4PKy6_l-OY6IkqE-26" vertex="1">
           <mxGeometry x="95" y="31.5" width="220" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-36" value="Juin à&#xa;Septembre" style="swimlane;horizontal=0;startSize=69;fontSize=15;strokeWidth=1;strokeColor=none;fillColor=#E0BF5A;" parent="KtcMa4PKy6_l-OY6IkqE-1" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-36" value="Juin à&#xa;Septembre" style="swimlane;horizontal=0;startSize=69;fontSize=15;strokeWidth=1;strokeColor=none;fillColor=#E8C55D;" parent="KtcMa4PKy6_l-OY6IkqE-1" vertex="1">
           <mxGeometry x="1" y="984" width="799" height="126" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=17;endSize=6;strokeWidth=3;startArrow=none;" parent="KtcMa4PKy6_l-OY6IkqE-36" edge="1">
@@ -64,10 +64,10 @@
             <mxPoint x="380" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-38" value="&lt;div align=&quot;left&quot;&gt;Déconstruire et expliquer l&#39;algorithme final dans toutes ses composantes.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;align=center;fillColor=#F0CC60;strokeColor=none;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-38" value="&lt;div align=&quot;left&quot;&gt;Déconstruire et expliquer l&#39;algorithme final dans toutes ses composantes.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;align=center;fillColor=#E8C55D;strokeColor=none;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
           <mxGeometry x="337" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="KtcMa4PKy6_l-OY6IkqE-39" value="&lt;div&gt;400h&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MVR, EB, DF&lt;/div&gt;&lt;div&gt;+&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 doctorant·e&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;align=center;fillColor=#F2CE61;strokeColor=none;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
+        <mxCell id="KtcMa4PKy6_l-OY6IkqE-39" value="&lt;div&gt;400h&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MVR, EB, DF&lt;/div&gt;&lt;div&gt;+&lt;br&gt;&lt;/div&gt;&lt;div&gt;1 doctorant·e&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;align=center;fillColor=#E8C55D;strokeColor=none;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
           <mxGeometry x="579" y="13.5" width="220" height="93" as="geometry" />
         </mxCell>
         <mxCell id="KtcMa4PKy6_l-OY6IkqE-40" value="&lt;b&gt;Préparation à la production et à la diffusion des résultats&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=15;dashPattern=1 4;align=center;fillColor=#E8C55D;strokeColor=none;" parent="KtcMa4PKy6_l-OY6IkqE-36" vertex="1">
