@@ -1,74 +1,74 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T18:41:45.769Z" agent="5.0 (X11)" etag="yzIxEiwvKjAYQPPSlrb-" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-20T18:48:39.790Z" agent="5.0 (X11)" etag="951j8u8_Y8-Swu1mcPJ0" version="17.4.5" type="github">
   <diagram name="Page-1" id="82e54ff1-d628-8f03-85c4-9753963a91cd">
-    <mxGraphModel dx="871" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4ec97bd9e5d20128-1" value="" style="line;strokeWidth=2;html=1;fillColor=none;fontSize=28;fontColor=#004D99;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="10" y="400" width="1430" height="10" as="geometry" />
+          <mxGeometry x="48" y="400" width="990" height="10" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-5" value="Avril 2022" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="19" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="38" y="330" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-6" value="Juillet-Septembre 2022" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="339" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="318" y="330" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-7" value="Mai-Juin 2022" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="180" y="425" width="160" height="35" as="geometry" />
+          <mxGeometry x="177" y="425" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-8" value="27-29 octobre 2022" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" parent="1" vertex="1">
-          <mxGeometry x="500" y="425" width="160" height="35" as="geometry" />
+          <mxGeometry x="458" y="425" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="89" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="99" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="250" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="239" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-11" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="409" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="379" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" parent="1" vertex="1">
-          <mxGeometry x="570" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="520" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-14" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;Invitations et constitution d’un premier programme&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="430" width="120" height="130" as="geometry" />
+          <mxGeometry x="50" y="430" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-16" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;Organisation scientifique (finalisation du programme, création du site web du colloque) et logistique (gestion des transports et de l’hébergement) du colloque&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="199" y="120" width="121" height="250" as="geometry" />
+          <mxGeometry x="188" y="120" width="121" height="250" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-17" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;Diffusion et publicisation de l’événement&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="430" width="120" height="120" as="geometry" />
+          <mxGeometry x="330" y="430" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4ec97bd9e5d20128-18" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;Tenue du colloque&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="250" width="120" height="120" as="geometry" />
+          <mxGeometry x="470" y="250" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nEgdPG6tb0b_NKAuEuqp-4" value="Novembre - Décembre 2022" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="840" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="598" y="320" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nEgdPG6tb0b_NKAuEuqp-5" value="Janvier 2023" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.4178571428571445;flipV=1;verticalAlign=bottom;strokeColor=none;spacingBottom=4;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="425" width="160" height="35" as="geometry" />
+          <mxGeometry x="738" y="425" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="nEgdPG6tb0b_NKAuEuqp-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
-          <mxGeometry x="910" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="660" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nEgdPG6tb0b_NKAuEuqp-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="800" y="395" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nEgdPG6tb0b_NKAuEuqp-8" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;Édition du site web du colloque ; éditorialisation et hébergement des captations vidéos&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="812" y="430" width="215" height="120" as="geometry" />
+        <mxCell id="nEgdPG6tb0b_NKAuEuqp-8" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Verdana&quot;&gt;Édition du site web du colloque ; éditorialisation et hébergement des captations vidéos&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="nEgdPG6tb0b_NKAuEuqp-9" value="&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;span style=&quot;font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Rassemblement des articles en vue de la monographie&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="250" width="215" height="120" as="geometry" />
+        <mxCell id="nEgdPG6tb0b_NKAuEuqp-9" value="&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;span style=&quot;font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;background-color: transparent&quot;&gt;&lt;span style=&quot;font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; display: inline ; float: none&quot;&gt;Rassemblement des articles en vue de la monographie&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="749" y="250" width="122" height="120" as="geometry" />
         </mxCell>
         <mxCell id="nEgdPG6tb0b_NKAuEuqp-10" value="Février - Mars 2023" style="shape=offPageConnector;whiteSpace=wrap;html=1;fillColor=#0075E8;fontSize=15;fontColor=#FFFFFF;size=0.5093750000000015;verticalAlign=top;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="340" width="160" height="40" as="geometry" />
+          <mxGeometry x="878" y="330" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nEgdPG6tb0b_NKAuEuqp-12" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#61BAFF;fontSize=28;fontColor=#004D99;strokeWidth=3;strokeColor=#004D99;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="395" width="20" height="20" as="geometry" />
+          <mxGeometry x="940" y="395" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nEgdPG6tb0b_NKAuEuqp-14" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: left ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgba(221 , 223 , 228 , 0.07) ; display: inline ; float: none&quot;&gt;Édition et publication des résultats de recherche sous forme d’une monographie pour la collection Parcours Numériques au Presses de l’Université de Montréal&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=none;strokeWidth=3;fillColor=#E6E6E6;fontSize=13;fontColor=#000000;align=center;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1212.5" y="425" width="215" height="125" as="geometry" />
+          <mxGeometry x="890" y="425" width="120" height="265" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
